@@ -1,7 +1,0 @@
-supportedContent: ALL
-minimumSupportedBuild: 600000
-APIVersion: 2
-version: 1.0.0
-title: "Sound Switch"
-description: "Removes the mousover sound effect"
-author: "SoulInfernoDE"
