@@ -1,0 +1,7 @@
+supportedContent: ALL
+minimumSupportedBuild: 600000
+APIVersion: 2
+version: 1.1.0
+title: "SoundSwitch"
+description: "Ersetzt oder deaktiviert Hover- und Klick-Sounds individuell per Konfigurationsdatei."
+author: "SoulInfernoDE"
