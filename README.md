@@ -10,10 +10,9 @@ If you have a large base and the mouse hover sound goes "clickclicklick....click
 This mod is intended to later enable some kind of sound switching or disabling abilities.
 
 
-In this version it just "removes" the mouseover sound effect.
+In this version you can select if you want to disable/enable the mouseover sound effect and the selected object/building effect and swap this over to the mousover sound effect.
 
-
-I may plan to include options for transfer that sound to the select buildings sound - because i think it makes it less noisy.
+I think this makes it less noisy.
 
 
 
